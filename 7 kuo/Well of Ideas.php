@@ -10,8 +10,7 @@ The solution should be case insensitive (ie good, GOOD and gOOd all count as a g
 
 */
 
-function well($arr)
-{ 
+function well($arr) { 
 $count = 0;
 foreach ($arr as $value) {
 //print($value,);
