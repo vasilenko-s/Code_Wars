@@ -1,2 +1,2 @@
 # Code_Wars
-exersises from site https://www.codewars.com
+Exersises from site https://www.codewars.com
